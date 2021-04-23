@@ -1,0 +1,58 @@
+font-family: 'Special Elite', cursive;
+background: #f5dbda;
+}
+
+.header_div{
+background: white;
+color: red;
+}
+
+.header_div img{
+width: 100px;
+}
+
+.main_div{
+background: #ffd2c7;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid white;
+margin-left: 450px;
+}
+
+.main_div label{
+background: white;
+width: 310px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 18px black;
+}
+
+.wolfram, .MobileNet{
+border: 2px solid white;
+width: 310px;
+height: 300px;
+box-shadow: 5px 5px 18px black;
+}
+
+.list{
+margin-right: 10px;
+}
+
+.normal_img{
+height: 350px;
+width: 350px;
+}
+
+.special_img{
+height: 300px;
+width: 400px;
+}
+
+#final_result{
+margin-top: 100px;
+font-size: 25px;
+background: #ffd2c7;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid white;
+}
